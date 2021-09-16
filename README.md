@@ -1,7 +1,7 @@
 # Matrix Screen Saver for Microsoft Windows(r) 
 Matrix Resurrections :: In theaters this Christmas, 2021!
 
-## Installation Instructions
+## Installation Instructions ::
 ### Difficulty Level :: Beginner (takes me 2-3 min)
 
 **1)** Download this GitHub repository.
@@ -16,10 +16,10 @@ You can search online for the appropriate screen saver location for your particu
 File path to Matrix screen saver file in this GitHub repository download ::
 > /scr/Matrixcode.scr
 
-**4)** When you next load the Windows System display properties dialog with screen saver selection settings, you should see "Matrixcode" show up in the list among your choices for selection. Select it.
+**4)** When you next load the Windows System display properties dialog with screen saver selection settings, you should see "Matrixcode" show up in the list among your choices for selection. Select **Matrixcode**.
 
 **5)** Feel free to use the built in screen saver settings feature to customize your Matrix code and enjoy!
 
 **6)** If you needed to "Show Hidden Files and Folders", you can turn this setting back to hidden now.
 
-**7)** Go see the movie in theaters everywhere in December!  **:)**
+**7)** **Most Importantly,** grab a friend or two, and go to see the movie in theaters everywhere in December!  **:)**
