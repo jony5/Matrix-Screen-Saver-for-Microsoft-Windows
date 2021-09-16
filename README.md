@@ -1,8 +1,8 @@
-#Matrix Screen Saver for Microsoft Windows(r) 
-###Matrix Resurrections :: In theaters this Christmas, 2021!
+# Matrix Screen Saver for Microsoft Windows(r) 
+### Matrix Resurrections :: In theaters this Christmas, 2021!
 
-##Installation Instructions
-##Difficulty Level :: Beginner (takes me 2-3 min)
+## Installation Instructions
+## Difficulty Level :: Beginner (takes me 2-3 min)
 
 **1)** Download this GitHub repository.
 
