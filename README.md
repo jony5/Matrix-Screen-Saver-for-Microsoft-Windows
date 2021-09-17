@@ -11,7 +11,7 @@ Matrix Resurrections :: In theaters everywhere this Christmas, 2021!
 You can search online for the appropriate screen saver location for your particular version of Microsoft Windows, but on all my Windows XP machines (physical and virtual), the directory holding .scr files is: 
 > C:\WINDOWS\system32
 
-**3)** Move or Copy ONLY the .scr file (file path below) into the Microsoft Windows system directory which will also be holding all the other installed screen saver files. You can sort by file type to see them easily. These files will always end with .scr.
+**3)** Move or Copy ONLY the .scr file (file path below) into the Microsoft Windows system directory which will also be holding all the other installed screen saver files. You can sort by file type to see them easily. These files will always end with **.scr**.
 
 File path to Matrix screen saver file in this GitHub repository download ::
 > /scr/Matrixcode.scr
