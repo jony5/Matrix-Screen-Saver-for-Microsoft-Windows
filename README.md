@@ -22,4 +22,4 @@ File path to Matrix screen saver file in this GitHub repository download ::
 
 **6)** If you needed to "Show Hidden Files and Folders", you can turn this setting back to hidden now.
 
-**7)** **Most Importantly,** grab a friend or two, and go to see the movie in theaters everywhere in December!  **:)**
+**7)** **Most Importantly,** grab a friend or two, and go to see the movie which will be showing in theaters everywhere in December!  **:)**
