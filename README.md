@@ -4,7 +4,7 @@ Matrix Resurrections :: In theaters everywhere this Christmas, 2021!
 ## Installation Instructions ::
 ### Difficulty Level :: Beginner (takes me 2-3 min)
 
-**1)** Download this GitHub repository.
+**1)** Download this GitHub repository by clicking on the green **Code** button and then **"Download ZIP"**.  
 
 **2)** Open your Microsoft Windows System directory which holds the system recognized screen saver files. This may require you to change your settings to allow "Show Hidden Files and Folders" before you can see the necessary system directory. 
 
